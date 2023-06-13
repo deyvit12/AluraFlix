@@ -25,7 +25,7 @@ const PieDePagina = () => {
         <Footer>
             <Logotipo footer={true}/>
 
-            <Parrafo>Desarrollado por Daniel Posadas Rangel | 2023 </Parrafo>
+            <Parrafo>Desarrollado By Deyvit Acosta Coronado || 2023 </Parrafo>
         </Footer>
     )
 }
